@@ -1,9 +1,9 @@
 # HARSHITA SHINDE
-- Phone: +91 9302924181 
-- Email:  harshitashinde3007@gmail.com 
-- Github: https://github.com/HarshitaShinde0730 
-- LinkedIn: https://www.linkedin.com/in/harshita-shinde-91789b284
-- Location: Indore , India
+- 📱:Phone: +91 9302924181
+- 📧:Email:  harshitashinde3007@gmail.com 
+- :bookmark:Github: https://github.com/HarshitaShinde0730 
+- :briefcase:LinkedIn: https://www.linkedin.com/in/harshita-shinde-91789b284                                                     
+- :pushpin:Location: Indore , India
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">SKILLS SUMMARY</h3>
 
@@ -24,9 +24,7 @@ Mindset.
 <h4> ERP Software Developer And Data Engineer </h4> 
 HotWax Commerce 
 
-:date: 09/2024 - 06/2025
- 
-Indore, MP India
+:date: 09/2024 - 06/2025   :pushpin:Indore, MP India
 
 A company specializing in Enterprise software solutions:
 - Worked as a Software Developer Intern with hands-on experience in the Universal Data Model (UDM) and enterprise-level data modeling, contributing to real-world eCommerce solutions.
@@ -40,9 +38,7 @@ A company specializing in Enterprise software solutions:
 <h4> WorkFlow Automation Expert </h4>
 WalkOver Web Solution
 
-:date: 09/2025 - till now
-
-Indore, MP India
+:date: 09/2025 - till now   :pushpin:Indore, MP India
 
 Key Contributions:
 - Automated business workflows via Viasocket, cutting manual effort by ~70% and boosting efficiency.
@@ -76,8 +72,7 @@ Key Contributions:
 ### 📜 Certifications
 
 - **Google Data Analytics Professional Certificate** – Coursera  
-  *Issued: 15 Feb 2024*  
-  [View Certificate](https://www.credly.com/badges/your-certificate-link)  
+  *Issued: 15 Feb 2024 [View Certificate](https://github.com/HarshitaShinde0730/Resume/blob/main/Google%20Data%20Certificate.jpeg)* 
 
 
 
