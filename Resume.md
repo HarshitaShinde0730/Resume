@@ -8,7 +8,7 @@
 ## SKILLS SUMMARY
 - **Programming Skills:** Python, JAVA, PHP, Groovy.
 - **Database Connectivity and Language:** MySQL, SQL.
-- **Data Engineer:** ELT tools like Apache Nifi, Apache Spark, Apache Hadoop, Jolt.
+- **Data Engineer:** ELT tools like Apache Nifi, Apache Spark, Apache Hadoop, Jolt, Pandas, Numpy.
 - **ERP Framework:** Apache Moqui, Apache Ofbiz,
 - **API:** RESTful API.
 - **Version Control:** Git, GitHub and GitLab.
